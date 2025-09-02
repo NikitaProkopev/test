@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Roboto";
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-text: #252A32;
+  --secondary-text: #97AACD;
+  --primary-button: #4368E0;
+  --secondary-button: #449CF4;
+  --third-button: #68C2E9;
+  --third-button-active: #4B97B8;
+  --background: #F5F5FC;
+  --active-background: #D9E7FF;
+  --button-background: #F6F9FE;
+  --divider: #E4E6F1;
+  --white-background: white;
+}
